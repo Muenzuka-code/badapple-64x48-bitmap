@@ -22,3 +22,8 @@ for (size_t i = 0; i < BADAPPLE_FRAMES; i++)
 
         }
 ```
+
+## Acknowledgement
+Original Video: あにら
+Music: Alstroemeria Records
+Original Works: Touhou Project/ ZUN
